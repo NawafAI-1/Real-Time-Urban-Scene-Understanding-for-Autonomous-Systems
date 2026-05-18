@@ -1,6 +1,6 @@
 # 🚗 Cityscapes Semantic Segmentation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/cityscapes-segmentation/blob/main/cityscapes_segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/cityscapes-segmentation/blob/main/cityscapes_segmentation.ipynb](https://colab.research.google.com/drive/1RqrHIwtXjJY3o97_GHCidB2UPi-SWCGd))
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
