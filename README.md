@@ -1,8 +1,8 @@
 # 🚗 Cityscapes Semantic Segmentation
  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RqrHIwtXjJY3o97_GHCidB2UPi-SWCGd)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
+![Python]()
+![PyTorch]()
 ![License](https://img.shields.io/badge/License-MIT-green)
  
 End-to-end semantic segmentation of urban street scenes using a custom **DeepLabV3+** architecture with a **ResNet-50** backbone, trained on the [Cityscapes dataset](https://www.cityscapes-dataset.com/).
