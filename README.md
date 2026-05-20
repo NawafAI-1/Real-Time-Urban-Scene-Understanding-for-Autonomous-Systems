@@ -1,7 +1,7 @@
 # 🚗 Cityscapes Semantic Segmentation
  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RqrHIwtXjJY3o97_GHCidB2UPi-SWCGd)
-![Python]()
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![PyTorch]()
 ![License](https://img.shields.io/badge/License-MIT-green)
  
