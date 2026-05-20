@@ -138,7 +138,7 @@ Checkpoints and training history are saved to Google Drive at the path set in `D
  
 ## 📄 License
  
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License].
  
 ---
  
