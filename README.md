@@ -9,7 +9,7 @@ End-to-end semantic segmentation of urban street scenes using a custom **DeepLab
  
 ---
  
-## ✨ Highlights
+##  Highlights
  
 - **DeepLabV3+ from scratch** — Encoder (ResNet-50 with dilated convolutions) → ASPP → Decoder, all hand-coded with detailed explanations
 - **Combined loss** — Cross-Entropy + Focal + Dice, weighted to handle rare classes like `bicycle` and `person`
@@ -19,7 +19,7 @@ End-to-end semantic segmentation of urban street scenes using a custom **DeepLab
 - **Baseline comparison** — Automatically benchmarks your model against FCN, PSPNet, DeepLabV3, and FPN on the same val split
 ---
  
-## 📊 Architecture
+## Architecture
  
 ```
 Input Image  (B, 3, 512, 512)
@@ -48,7 +48,7 @@ Output Mask  (B, 512, 512)
  
 ---
  
-## 🗂️ Dataset
+## Dataset
  
 The notebook uses the [Cityscapes dataset](https://www.cityscapes-dataset.com/) downloaded via [KaggleHub](https://www.kaggle.com/datasets/electraawais/cityscape-dataset).
  
@@ -58,7 +58,7 @@ You need a free Kaggle account and an API token to download the data. See the [K
  
 ---
  
-## 🚀 Quick Start
+## Quick Start
  
 ### Google Colab (recommended)
  
@@ -78,7 +78,7 @@ jupyter notebook cityscapes_segmentation.ipynb
  
 ---
  
-## ⚙️ Configuration (Cell 1)
+## Configuration (Cell 1)
  
 | Variable | Default | Description |
 |---|---|---|
@@ -91,7 +91,7 @@ jupyter notebook cityscapes_segmentation.ipynb
  
 ---
  
-## 📈 Expected Results
+## Expected Results
  
 Approximate benchmarks on the Cityscapes validation split after 10 epochs on a T4 GPU:
  
@@ -106,7 +106,7 @@ Approximate benchmarks on the Cityscapes validation split after 10 epochs on a T
  
 ---
  
-## 📦 Dependencies
+##  Dependencies
  
 ```
 torch >= 2.0
@@ -123,7 +123,7 @@ numpy
  
 ---
  
-## 📁 Repository Structure
+## Repository Structure
  
 ```
 cityscapes-segmentation/
@@ -136,9 +136,9 @@ Checkpoints and training history are saved to Google Drive at the path set in `D
  
 ---
  
-## 📄 License
- 
-This project is released under the [MIT License].
+## License
+
+This project is released under the [MIT License](https://opensource.org/licenses/MIT).
  
 ---
  
